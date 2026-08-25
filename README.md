@@ -1,6 +1,6 @@
 # 🐾 PawMatch - Online Pet Adoption System
 
-A full-stack web application for pet adoption built with Spring Boot, Java Servlets, and MySQL.
+A full-stack web application for pet adoption built with Spring Boot, Java Servlets, and MySQL .
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-green)
